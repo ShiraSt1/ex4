@@ -5,3 +5,5 @@ const a=()=>{
 const b=()=>{
     alert("b")
 }
+
+const c=10
